@@ -1,4 +1,4 @@
-```markdown
+
 # GitHub Foundation Certification Practice Material
 
 ## What is the GitHub Foundation Certification?
@@ -39,4 +39,4 @@ You can contribute to this repository to help others benefit more. Feel free to 
 ---
 
 Feel free to reach out if any guidance is needed. Good luck on your journey to becoming GitHub Certified!
-```
+
